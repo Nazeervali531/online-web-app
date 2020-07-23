@@ -10,6 +10,7 @@ function App() {
         <p>Welcome to snv projects</p>
         <h1> my project is online</h1>
         <h1>Testing the project</h1>
+        welcome
       </header>
     </div>
   );
